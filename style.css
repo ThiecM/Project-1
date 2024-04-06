@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(7, 19, 6);
+    background-image: url(images/IMG_7845.JPG);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1090px;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    height: 118px;
+    width: 1024;
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(30, 255, 0, 0.226);
+    width: 1024;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+main{
+    height: 400px;
+    width: 1024;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer{
+    background-color: rgba(30, 255, 0, 0.233);
+padding-top: 50px;
+padding-bottom: 50px;
+}
+h1{
+    font-size: 84px;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 18px;
+    font-style: oblique;
+    color: #c2bbbb;
+}
+
+main a{
+    font-size: 18px;
+    font-style: oblique;
+    color: #c2bbbb;
+    /* text-decoration: none; */
+}
+
+nav a{ font-size: 20px;
+    font-style: bold;
+    color: #ece3e3;
+text-decoration: none;
+padding-left: 10px;
+padding-right: 10px;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.map{
+    padding-left: 100px;
+    padding-right: 50px;
+}
